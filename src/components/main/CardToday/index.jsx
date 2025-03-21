@@ -2,7 +2,6 @@ import React, { useContext } from "react";
 import { api } from "../../../services";
 import { AuthContext } from "../../../contexts/index";
 import * as S from "./styles";
-import { Check } from "phosphor-react";
 
 export default function CardToday({ dayData, setRefresh }) {
   const { name, done, currentSequence, highestSequence, id } = dayData;

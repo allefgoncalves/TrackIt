@@ -2,7 +2,6 @@ import React, { useContext, useState } from "react";
 import { api } from "../../../services";
 import { AuthContext } from "../../../contexts/index";
 import * as S from "./styles";
-import { Trash } from "phosphor-react";
 import  DeleteIcon  from '@mui/icons-material/Delete';
 import { confirmAlert } from "react-confirm-alert";
 import "react-confirm-alert/src/react-confirm-alert.css";

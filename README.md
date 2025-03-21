@@ -1,3 +1,3 @@
 # React + Vite
 
-link deploy: 
+link deploy: https://track-it-oz8t.vercel.app/
